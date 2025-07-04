@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7F0DPQFDtkc=",
+  "success": true,
+  "projectFilePath": "/Users/serhatarslan/bloom_filter/BloomFilterDemo/BloomFilterDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/serhatarslan/.nuget/packages/murmurhash/1.0.3/murmurhash.1.0.3.nupkg.sha512",
+    "/Users/serhatarslan/.nuget/packages/murmurhash.net/0.0.2/murmurhash.net.0.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BloomFilterDemo/1.0.0": {
+        "dependencies": {
+          "murmurhash": "1.0.3",
+          "MurmurHash.Net": "0.0.2"
+        },
+        "runtime": {
+          "BloomFilterDemo.dll": {}
+        }
+      },
+      "murmurhash/1.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/MurmurHash.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MurmurHash.Net/0.0.2": {
+        "runtime": {
+          "lib/netstandard2.1/MurmurHash.Net.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BloomFilterDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "murmurhash/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-56dW8jgSsvGs/tULn+r1UbS+o0rBvgMj+6Lta6uao4j8Kzx1kVxMf56LPKO070VqjWcGyMB4K4R6M4gVKutG9A==",
+      "path": "murmurhash/1.0.3",
+      "hashPath": "murmurhash.1.0.3.nupkg.sha512"
+    },
+    "MurmurHash.Net/0.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1T+bwgpLl5xnWsCMQaB/HndOAYWQLsqv6GlUTk3VRlGVzfiz6un1LWCBldG8qqfYTEkcxC1UY8yAD8q5MyoGwg==",
+      "path": "murmurhash.net/0.0.2",
+      "hashPath": "murmurhash.net.0.0.2.nupkg.sha512"
+    }
+  }
+}
